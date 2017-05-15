@@ -1,0 +1,24 @@
+{
+  "name": "gabrielmangiurea",
+  "version": "1.1.0",
+  "description": "Contact details for Gabriel Mangiurea",
+  "scripts": {
+    "postinstall": "cat index.json"
+  },
+  "keywords": [
+    "contact",
+    "details",
+    "gabriel",
+    "mangiurea"
+  ],
+  "author": {
+    "name": "Gabriel Mangiurea",
+    "email": "mangiurea.gabriel@gmail.com",
+    "url": "https://gabrielmangiurea.github.io"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GabrielMangiurea/gabrielmangiurea.git"
+  }
+}
